@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+  <g id="main">
+    <clipPath id="clip_mask">
+      <path d="M16,0v16H2.528l1.255,-1.244c0.528,0.211,1.094,0.32,1.67,0.32c0,0,0,0,0,0c1.209,0,2.345,-0.473,3.2,-1.333c1.76,-1.77,1.762,-4.648,0.005,-6.415C7.806,6.472,6.672,6,5.466,6c-1.209,0,-2.347,0.474,-3.202,1.334C0.959,8.646,0.592,10.565,1.26,12.227L0,13.476V0H16z" fill-rule="evenodd"/>
+    </clipPath>
+    <g id="icon" clip-path="url(#clip_mask)">
+      <g id="transformed_icon" transform="translate(1 0)">
+        <path d="M14,14.5H1c-0.276,0,-0.5,-0.224,-0.5,-0.5V2.5h14v11.5C14.5,14.276,14.276,14.5,14,14.5z" fill="none" stroke="#2D85A0" stroke-width="1" stroke-miterlimit="1"/>
+        <path d="M15,4H0V1C0,0.448,0.448,0,1,0h13c0.552,0,1,0.448,1,1V4z" fill="#2D85A0"/>
+        <polyline points="2.5,9.5 4.398,9.5 5.339,7.287 6.358,12.488 8.498,5.504 9.926,11.221 10.715,9.5 12.5,9.5" fill-rule="evenodd" fill="none" stroke="#2D85A0" stroke-width="1" stroke-linecap="round" stroke-miterlimit="1" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g id="overlay">
+      <path d="M7.95,8.034c-1.373,-1.381,-3.601,-1.378,-4.977,0.005c-1.186,1.192,-1.35,3.021,-0.494,4.388L0.115,14.77c-0.153,0.154,-0.153,0.404,0,0.557l0.554,0.557c0.153,0.154,0.401,0.154,0.554,0l2.366,-2.345c1.358,0.855,3.172,0.688,4.355,-0.502C9.32,11.655,9.323,9.415,7.95,8.034zM7.086,12.194c-0.907,0.912,-2.377,0.912,-3.283,0c-0.907,-0.912,-0.907,-2.39,0,-3.302c0.907,-0.912,2.377,-0.912,3.283,0C7.993,9.805,7.993,11.283,7.086,12.194z" fill-rule="evenodd" fill="#E9573E"/>
+    </g>
+  </g>
+</svg>

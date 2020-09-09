@@ -1,0 +1,15 @@
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\bin\Debug\CATCommandTest.exe.config
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\bin\Debug\CATCommandTest.exe
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\bin\Debug\CATCommandTest.pdb
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\MainWindow.g.cs
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\App.g.cs
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\CATCommandTest_MarkupCompile.cache
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\CATCommandTest_MarkupCompile.lref
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\MainWindow.baml
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\CATCommandTest.g.resources
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\CATCommandTest.Properties.Resources.resources
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\CATCommandTest.csproj.GenerateResource.Cache
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\CATCommandTest.exe
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\CATCommandTest.pdb
+c:\users\mileydis\documents\visual studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mileydis\Documents\Visual Studio 2015\Projects\CATCommandTest\CATCommandTest\obj\Debug\CATCommandTest.csprojAssemblyReference.cache

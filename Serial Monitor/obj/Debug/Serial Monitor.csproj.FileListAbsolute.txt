@@ -1,0 +1,15 @@
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.csprojAssemblyReference.cache
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\MainWindow.g.cs
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\App.g.cs
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\MainWindow.baml
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\CATCommandTest.Properties.Resources.resources
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\Serial Monitor.csproj.GenerateResource.cache
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\bin\Debug\SerialMonitor.exe.config
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\bin\Debug\SerialMonitor.exe
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\bin\Debug\SerialMonitor.pdb
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\SerialMonitor_MarkupCompile.cache
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\SerialMonitor_MarkupCompile.lref
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\SerialMonitor.g.resources
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\SerialMonitor.exe
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\SerialMonitor.pdb
+C:\Users\Mileydis\Documents\Visual Studio 2019\Projects\Serial Monitor\Serial Monitor\obj\Debug\App.baml
